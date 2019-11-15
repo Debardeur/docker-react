@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc6b23be-a1d8-48e6-8b7a-38a11f562728" name="Default Changelist" comment="tr">
+    <list default="true" id="bc6b23be-a1d8-48e6-8b7a-38a11f562728" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -75,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="431">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -186,7 +187,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573741082393</updated>
-      <workItem from="1573741083945" duration="8256000" />
+      <workItem from="1573741083945" duration="9053000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1573813499724</created>
@@ -251,11 +252,25 @@
       <option name="project" value="LOCAL" />
       <updated>1573829521362</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test agaaaain">
+      <created>1573831851368</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573831851368</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test come on">
+      <created>1573832179742</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573832179742</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8256000" />
+    <option name="totallyTimeSpent" value="9053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -292,7 +307,9 @@
     <MESSAGE value="fix" />
     <MESSAGE value="take out bucket path" />
     <MESSAGE value="new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file" />
+    <MESSAGE value="test agaaaain" />
+    <MESSAGE value="test come on" />
+    <option name="LAST_COMMIT_MESSAGE" value="test come on" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.dockerignore">
@@ -362,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="431">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
