@@ -1,6 +1,8 @@
 sudo: required
+
 services:
   - docker
+
 before_install:
   - docker build -f Dockerfile.dev -t hamzanaanani/docker-react .
 
@@ -9,12 +11,12 @@ scripts:
 
 deploy:
   provider: elasticbeanstalk
+  bucket_name: "elasticbeanstalk-eu-west-3-907518596288"
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
   region: "eu-west-3"
   app: "docker-react"
   env: "DockerReact-env"
-  bucket_name: "elasticbeanstalk-eu-west-3-907518596288"
   bucket_path: "docker-react"
   on:
     branch: master
