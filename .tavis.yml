@@ -6,5 +6,3 @@ before_install:
 
 scripts:
   - docker run -e CI=true hamzanaanani/docker-react npm run test
-
-language: generic
