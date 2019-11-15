@@ -20,4 +20,3 @@ deploy:
   bucket_path: "docker-react"
   on:
     branch: master
-language: generic
